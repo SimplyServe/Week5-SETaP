@@ -1,4 +1,4 @@
-API
+API Hello
 ===
 # API documentation for lumache.
 .. autosummary::
